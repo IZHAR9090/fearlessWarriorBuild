@@ -1,0 +1,3 @@
+git add .nojekyll
+git commit -m "Add .nojekyll to fix GitHub Pages loading"
+git push origin main
